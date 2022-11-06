@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Grid Forum: Details of all changes</title>
-  <link href="https://redmine.ogf.org/issues/changes?format=atom" rel="self"/>
-  <link href="https://redmine.ogf.org/" rel="alternate"/>
+  <link rel="self" href="https://redmine.ogf.org/issues/changes?format=atom"/>
+  <link rel="alternate" href="https://redmine.ogf.org/"/>
   <id>https://redmine.ogf.org/</id>
   <updated>2020-08-07T10:47:30-04:00</updated>
   <author>
@@ -10,7 +10,7 @@
   </author>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1382</id>
     <updated>2020-08-07T10:47:30-04:00</updated>
     <author>
@@ -24,7 +24,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1379</id>
     <updated>2020-03-06T10:27:01-05:00</updated>
     <author>
@@ -47,7 +47,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1345</id>
     <updated>2019-10-18T10:12:04-04:00</updated>
     <author>
@@ -58,7 +58,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1315</id>
     <updated>2019-10-08T22:42:18-04:00</updated>
     <author>
@@ -69,7 +69,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1297</id>
     <updated>2019-09-06T10:05:12-04:00</updated>
     <author>
@@ -80,7 +80,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1288</id>
     <updated>2019-08-09T10:05:31-04:00</updated>
     <author>
@@ -91,7 +91,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1265</id>
     <updated>2019-06-01T16:24:19-04:00</updated>
     <author>
@@ -108,7 +108,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1264</id>
     <updated>2019-06-01T16:12:41-04:00</updated>
     <author>
@@ -119,7 +119,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1263</id>
     <updated>2019-06-01T16:10:59-04:00</updated>
     <author>
@@ -130,7 +130,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1259</id>
     <updated>2019-01-11T10:22:31-05:00</updated>
     <author>
@@ -147,7 +147,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1257</id>
     <updated>2018-12-14T05:41:12-05:00</updated>
     <author>
@@ -158,7 +158,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1255</id>
     <updated>2018-11-09T10:21:40-05:00</updated>
     <author>
@@ -169,7 +169,7 @@
   </entry>
   <entry>
     <title>Editor - document #336: New GLUE Specification V 2.1 ready for public comment</title>
-    <link href="https://redmine.ogf.org/issues/336" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/336"/>
     <id>https://redmine.ogf.org/issues/336?journal_id=1251</id>
     <updated>2018-08-30T13:05:49-04:00</updated>
     <author>
@@ -183,7 +183,7 @@
   </entry>
   <entry>
     <title>DRMAAv2 C Binding - bug #298: GFD 194 specifies openMonitoringSession (in string contact) as contact string GFD 198 session name as parameter</title>
-    <link href="https://redmine.ogf.org/issues/298" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/298"/>
     <id>https://redmine.ogf.org/issues/298?journal_id=851</id>
     <updated>2015-09-09T08:56:44-04:00</updated>
     <author>
@@ -194,7 +194,7 @@
   </entry>
   <entry>
     <title>DRMAAv2 C Binding - bug #103: finalize function needed to prevent minor memory leaks</title>
-    <link href="https://redmine.ogf.org/issues/103" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/103"/>
     <id>https://redmine.ogf.org/issues/103?journal_id=801</id>
     <updated>2015-07-14T17:04:23-04:00</updated>
     <author>
@@ -205,7 +205,7 @@
   </entry>
   <entry>
     <title>DRMAAv2 C Binding - bug #58: list copy functions would be helpful</title>
-    <link href="https://redmine.ogf.org/issues/58" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/58"/>
     <id>https://redmine.ogf.org/issues/58?journal_id=512</id>
     <updated>2014-09-09T18:58:29-04:00</updated>
     <author>
@@ -216,7 +216,7 @@
   </entry>
   <entry>
     <title>DRMAAv2 C Binding - bug #103: finalize function needed to prevent minor memory leaks</title>
-    <link href="https://redmine.ogf.org/issues/103" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/103"/>
     <id>https://redmine.ogf.org/issues/103?journal_id=510</id>
     <updated>2014-09-09T18:56:15-04:00</updated>
     <author>
@@ -227,7 +227,7 @@
   </entry>
   <entry>
     <title>DRMAAv2 C Binding - bug #103: finalize function needed to prevent minor memory leaks</title>
-    <link href="https://redmine.ogf.org/issues/103" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/103"/>
     <id>https://redmine.ogf.org/issues/103?journal_id=509</id>
     <updated>2014-09-09T18:54:47-04:00</updated>
     <author>
@@ -238,7 +238,7 @@
   </entry>
   <entry>
     <title>DRMAAv2 C Binding - bug #103: finalize function needed to prevent minor memory leaks</title>
-    <link href="https://redmine.ogf.org/issues/103" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/103"/>
     <id>https://redmine.ogf.org/issues/103?journal_id=508</id>
     <updated>2014-09-09T18:53:43-04:00</updated>
     <author>
@@ -249,7 +249,7 @@
   </entry>
   <entry>
     <title>OGF-42 - sessions #152: OCCI general session</title>
-    <link href="https://redmine.ogf.org/issues/152" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/152"/>
     <id>https://redmine.ogf.org/issues/152?journal_id=483</id>
     <updated>2014-07-18T09:03:08-04:00</updated>
     <author>
@@ -260,7 +260,7 @@
   </entry>
   <entry>
     <title>OGF-42 - sessions #150: DRMAA v2 - OCCI (Part II)</title>
-    <link href="https://redmine.ogf.org/issues/150" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/150"/>
     <id>https://redmine.ogf.org/issues/150?journal_id=477</id>
     <updated>2014-07-02T15:42:34-04:00</updated>
     <author>
@@ -271,7 +271,7 @@
   </entry>
   <entry>
     <title>OGF-42 - sessions #149: DRMAAv2 - OCCI</title>
-    <link href="https://redmine.ogf.org/issues/149" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/149"/>
     <id>https://redmine.ogf.org/issues/149?journal_id=476</id>
     <updated>2014-07-02T15:42:22-04:00</updated>
     <author>
@@ -282,7 +282,7 @@
   </entry>
   <entry>
     <title>OGF-42 - sessions #148: DRMAAv2 - Language Bindings</title>
-    <link href="https://redmine.ogf.org/issues/148" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/148"/>
     <id>https://redmine.ogf.org/issues/148?journal_id=475</id>
     <updated>2014-07-02T15:42:11-04:00</updated>
     <author>
@@ -293,7 +293,7 @@
   </entry>
   <entry>
     <title>OGF-42 - sessions #147: DRMAAv2 - Tutorial, Status Report</title>
-    <link href="https://redmine.ogf.org/issues/147" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/147"/>
     <id>https://redmine.ogf.org/issues/147?journal_id=474</id>
     <updated>2014-07-02T15:42:01-04:00</updated>
     <author>
@@ -304,7 +304,7 @@
   </entry>
   <entry>
     <title>OGF-41 - sessions #144: OGF GLUE WG (Session 2)</title>
-    <link href="https://redmine.ogf.org/issues/144" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/issues/144"/>
     <id>https://redmine.ogf.org/issues/144?journal_id=473</id>
     <updated>2014-06-23T06:27:17-04:00</updated>
     <author>

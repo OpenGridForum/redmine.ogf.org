@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SAGA WG: Specification</title>
-  <link href="https://redmine.ogf.org/projects/saga-wg/boards?format=atom" rel="self"/>
-  <link href="https://redmine.ogf.org/projects/saga-wg/boards" rel="alternate"/>
+  <link rel="self" href="https://redmine.ogf.org/projects/saga-wg/boards?format=atom"/>
+  <link rel="alternate" href="https://redmine.ogf.org/projects/saga-wg/boards"/>
   <id>https://redmine.ogf.org/</id>
   <updated>2012-04-16T17:54:01-04:00</updated>
   <author>
@@ -12,7 +12,7 @@
 Redmine  </generator>
   <entry>
     <title>Specification: Ola!</title>
-    <link href="https://redmine.ogf.org/boards/1/topics/1?r=2#message-2" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/boards/1/topics/1?r=2#message-2"/>
     <id>https://redmine.ogf.org/boards/1/topics/1?r=2#message-2</id>
     <updated>2012-04-16T17:54:01-04:00</updated>
     <author>
@@ -42,7 +42,7 @@ Redmine  </generator>
   </entry>
   <entry>
     <title>Specification: Ola!</title>
-    <link href="https://redmine.ogf.org/boards/1/topics/1" rel="alternate"/>
+    <link rel="alternate" href="https://redmine.ogf.org/boards/1/topics/1"/>
     <id>https://redmine.ogf.org/boards/1/topics/1</id>
     <updated>2012-04-16T17:27:22-04:00</updated>
     <author>
